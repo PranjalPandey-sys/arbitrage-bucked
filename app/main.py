@@ -9,9 +9,10 @@ from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import JSONResponse
 from datetime import datetime
 
-from api.routes import router
-from config import settings
-from utils.logging import get_logger, setup_logging
+# Updated imports to reflect /app package structure
+from app.api.routes import router
+from app.config import settings
+from app.utils.logging import get_logger, setup_logging
 
 # Setup logging
 setup_logging()
@@ -166,9 +167,9 @@ async def logging_middleware(request, call_next):
 
 
 if __name__ == "__main__":
-    # Run with uvicorn
+    # Run with uvicorn — updated to app.main:app
     uvicorn.run(
-        "main:app",
+        "app.main:app",
         host=settings.host,
         port=settings.port,
         reload=settings.debug,
