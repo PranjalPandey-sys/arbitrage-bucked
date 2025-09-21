@@ -1,0 +1,377 @@
+2025-09-20 07:23:28 - root - INFO - Logging system initialized
+2025-09-20 07:23:30 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 07:23:31 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 07:23:31 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 07:23:31 - root - INFO - Logging system initialized
+2025-09-20 07:23:31 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 07:23:33 - main - INFO - Playwright initialized
+2025-09-20 07:23:33 - main - INFO - System startup completed successfully
+2025-09-20 07:23:33 - main - INFO - Playwright initialized
+2025-09-20 07:23:33 - main - INFO - System startup completed successfully
+2025-09-20 07:23:33 - main - INFO - Playwright initialized
+2025-09-20 07:23:33 - main - INFO - System startup completed successfully
+2025-09-20 07:23:33 - main - INFO - Playwright initialized
+2025-09-20 07:23:33 - main - INFO - System startup completed successfully
+2025-09-20 07:23:38 - main - INFO - GET http://127.0.0.1:8000/ - Status: 200 - Time: 0.001s
+2025-09-20 07:23:38 - main - INFO - GET http://127.0.0.1:8000/favicon.ico - Status: 404 - Time: 0.001s
+2025-09-20 07:30:56 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 07:30:56 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 07:30:57 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 07:30:57 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:08:08 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - root - INFO - Logging system initialized
+2025-09-20 08:08:11 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:08:11 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:08:11 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:08:11 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:08:16 - main - INFO - Playwright initialized
+2025-09-20 08:08:16 - main - INFO - System startup completed successfully
+2025-09-20 08:08:16 - main - INFO - Playwright initialized
+2025-09-20 08:08:16 - main - INFO - System startup completed successfully
+2025-09-20 08:08:16 - main - INFO - Playwright initialized
+2025-09-20 08:08:16 - main - INFO - System startup completed successfully
+2025-09-20 08:08:16 - main - INFO - Playwright initialized
+2025-09-20 08:08:16 - main - INFO - System startup completed successfully
+2025-09-20 08:08:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:08:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:08:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:08:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:09:44 - main - INFO - GET http://localhost:8000/docs - Status: 200 - Time: 0.000s
+2025-09-20 08:14:46 - main - ERROR - Unhandled exception on http://localhost:8000/health: name 'datetime' is not defined
+2025-09-20 08:15:17 - main - ERROR - Unhandled exception on http://localhost:8000/health: name 'datetime' is not defined
+2025-09-20 08:15:39 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:15:39 - main - INFO - Playwright cleanup completed
+2025-09-20 08:15:39 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:15:39 - main - INFO - Playwright cleanup completed
+2025-09-20 08:15:39 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:15:39 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:15:39 - main - INFO - Playwright cleanup completed
+2025-09-20 08:15:39 - main - INFO - Playwright cleanup completed
+2025-09-20 08:15:40 - root - INFO - Logging system initialized
+2025-09-20 08:15:43 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:15:44 - root - INFO - Logging system initialized
+2025-09-20 08:15:44 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:15:44 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:15:46 - main - INFO - Playwright initialized
+2025-09-20 08:15:46 - main - INFO - System startup completed successfully
+2025-09-20 08:15:46 - main - INFO - Playwright initialized
+2025-09-20 08:15:46 - main - INFO - System startup completed successfully
+2025-09-20 08:15:46 - main - INFO - Playwright initialized
+2025-09-20 08:15:46 - main - INFO - System startup completed successfully
+2025-09-20 08:15:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.002s
+2025-09-20 08:15:46 - main - INFO - Playwright initialized
+2025-09-20 08:15:46 - main - INFO - System startup completed successfully
+2025-09-20 08:15:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:15:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:15:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:15:47 - main - INFO - GET http://127.0.0.1:8000/ - Status: 200 - Time: 0.001s
+2025-09-20 08:15:51 - main - INFO - GET http://127.0.0.1:8000/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:16:02 - main - INFO - GET http://localhost:8000/health - Status: 200 - Time: 0.001s
+2025-09-20 08:19:27 - main - INFO - GET http://localhost:8000/api/status - Status: 200 - Time: 0.001s
+2025-09-20 08:21:55 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:21:55 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:21:55 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:24:05 - service.orchestrator - INFO - Starting full arbitrage detection process
+2025-09-20 08:24:05 - service.orchestrator - INFO - Scraping 2 bookmakers: [<BookmakerName.MOSTBET: 'mostbet'>, <BookmakerName.STAKE: 'stake'>]
+2025-09-20 08:24:05 - service.orchestrator - ERROR - Scraper BookmakerName.MOSTBET failed with exception: 'MostbetScraper' object has no attribute 'scrape_all_odds'
+2025-09-20 08:24:05 - service.orchestrator - ERROR - Scraper BookmakerName.STAKE failed with exception: 'StakeScraper' object has no attribute 'scrape_all_odds'
+2025-09-20 08:24:05 - service.orchestrator - WARNING - No odds data scraped from any bookmaker
+2025-09-20 08:24:05 - main - INFO - GET http://localhost:8000/api/arbs/live - Status: 200 - Time: 0.004s
+2025-09-20 08:27:51 - service.orchestrator - INFO - Starting full arbitrage detection process
+2025-09-20 08:27:51 - service.orchestrator - INFO - Scraping 2 bookmakers: [<BookmakerName.MOSTBET: 'mostbet'>, <BookmakerName.STAKE: 'stake'>]
+2025-09-20 08:27:51 - service.orchestrator - ERROR - Scraper BookmakerName.MOSTBET failed with exception: 'MostbetScraper' object has no attribute 'scrape_all_odds'
+2025-09-20 08:27:51 - service.orchestrator - ERROR - Scraper BookmakerName.STAKE failed with exception: 'StakeScraper' object has no attribute 'scrape_all_odds'
+2025-09-20 08:27:51 - service.orchestrator - WARNING - No odds data scraped from any bookmaker
+2025-09-20 08:27:51 - main - INFO - GET http://localhost:8000/api/arbs/live - Status: 200 - Time: 0.017s
+2025-09-20 08:28:00 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:28:00 - main - INFO - Playwright cleanup completed
+2025-09-20 08:28:00 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:28:00 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:28:00 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:28:00 - main - INFO - Playwright cleanup completed
+2025-09-20 08:28:00 - main - INFO - Playwright cleanup completed
+2025-09-20 08:28:00 - main - INFO - Playwright cleanup completed
+2025-09-20 08:28:01 - root - INFO - Logging system initialized
+2025-09-20 08:28:03 - root - INFO - Logging system initialized
+2025-09-20 08:28:03 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:28:04 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - root - INFO - Logging system initialized
+2025-09-20 08:28:04 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:28:04 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:28:05 - main - INFO - Playwright initialized
+2025-09-20 08:28:05 - main - INFO - System startup completed successfully
+2025-09-20 08:28:06 - main - INFO - Playwright initialized
+2025-09-20 08:28:06 - main - INFO - System startup completed successfully
+2025-09-20 08:28:06 - main - INFO - Playwright initialized
+2025-09-20 08:28:06 - main - INFO - System startup completed successfully
+2025-09-20 08:28:06 - main - INFO - Playwright initialized
+2025-09-20 08:28:06 - main - INFO - System startup completed successfully
+2025-09-20 08:28:06 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:28:07 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:28:07 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:28:15 - service.orchestrator - INFO - Starting full arbitrage detection process
+2025-09-20 08:28:15 - service.orchestrator - INFO - Scraping 2 bookmakers: [<BookmakerName.MOSTBET: 'mostbet'>, <BookmakerName.STAKE: 'stake'>]
+2025-09-20 08:28:15 - books.mostbet - INFO - Mostbet: Browser not initialized, skipping scraping
+2025-09-20 08:28:15 - books.stake - INFO - Stake: Browser not initialized, skipping scraping
+2025-09-20 08:28:15 - service.orchestrator - ERROR - Error in arbitrage detection process: 'list' object has no attribute 'success'
+2025-09-20 08:28:15 - main - INFO - GET http://localhost:8000/api/arbs/live - Status: 200 - Time: 0.002s
+2025-09-20 08:32:21 - main - INFO - GET http://0.0.0.0:8000/scrape/mostbet - Status: 404 - Time: 0.000s
+2025-09-20 08:32:30 - main - INFO - GET http://0.0.0.0:8000/docs - Status: 200 - Time: 0.000s
+2025-09-20 08:32:47 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.001s
+2025-09-20 08:34:01 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.000s
+2025-09-20 08:34:10 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:34:10 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:34:10 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:34:10 - main - INFO - Playwright cleanup completed
+2025-09-20 08:34:10 - main - INFO - Playwright cleanup completed
+2025-09-20 08:34:10 - main - INFO - Playwright cleanup completed
+2025-09-20 08:34:10 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:34:10 - main - INFO - Playwright cleanup completed
+2025-09-20 08:34:11 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - root - INFO - Logging system initialized
+2025-09-20 08:34:14 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:34:14 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:34:16 - main - INFO - Playwright initialized
+2025-09-20 08:34:16 - main - INFO - System startup completed successfully
+2025-09-20 08:34:16 - main - INFO - Playwright initialized
+2025-09-20 08:34:16 - main - INFO - Playwright initialized
+2025-09-20 08:34:16 - main - INFO - System startup completed successfully
+2025-09-20 08:34:16 - main - INFO - System startup completed successfully
+2025-09-20 08:34:16 - main - INFO - Playwright initialized
+2025-09-20 08:34:16 - main - INFO - System startup completed successfully
+2025-09-20 08:34:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:34:17 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:34:18 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:34:28 - books.base - ERROR - BookmakerName.MOSTBET: Failed to initialize browser: 'Playwright' object has no attribute 'new_context'
+2025-09-20 08:34:28 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.338s
+2025-09-20 08:35:16 - books.base - ERROR - BookmakerName.MOSTBET: Failed to initialize browser: 'Playwright' object has no attribute 'new_context'
+2025-09-20 08:35:16 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.377s
+2025-09-20 08:35:26 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:35:26 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:35:26 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:35:26 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:35:26 - main - INFO - Playwright cleanup completed
+2025-09-20 08:35:26 - main - INFO - Playwright cleanup completed
+2025-09-20 08:35:26 - main - INFO - Playwright cleanup completed
+2025-09-20 08:35:26 - main - INFO - Playwright cleanup completed
+2025-09-20 08:35:27 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:35:30 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:35:30 - root - INFO - Logging system initialized
+2025-09-20 08:35:30 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:35:31 - main - INFO - Playwright initialized
+2025-09-20 08:35:31 - main - INFO - System startup completed successfully
+2025-09-20 08:35:32 - main - INFO - Playwright initialized
+2025-09-20 08:35:32 - main - INFO - System startup completed successfully
+2025-09-20 08:35:32 - main - INFO - Playwright initialized
+2025-09-20 08:35:32 - main - INFO - System startup completed successfully
+2025-09-20 08:35:32 - main - INFO - Playwright initialized
+2025-09-20 08:35:32 - main - INFO - System startup completed successfully
+2025-09-20 08:35:32 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:35:32 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:35:33 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:35:56 - books.base - ERROR - BookmakerName.MOSTBET: Failed to initialize browser: BrowserType.launch: Executable doesn't exist at /home/runner/workspace/.cache/ms-playwright/chromium_headless_shell-1187/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-09-20 08:35:56 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.348s
+2025-09-20 08:37:04 - books.base - ERROR - BookmakerName.MOSTBET: Failed to initialize browser: BrowserType.launch: 
+╔══════════════════════════════════════════════════════╗
+║ Host system is missing dependencies to run browsers. ║
+║ Please install them with the following command:      ║
+║                                                      ║
+║     sudo playwright install-deps                     ║
+║                                                      ║
+║ Alternatively, use apt:                              ║
+║     sudo apt-get install libnspr4\                   ║
+║         libnss3\                                     ║
+║         libdbus-1-3\                                 ║
+║         libatk1.0-0t64\                              ║
+║         libatk-bridge2.0-0t64\                       ║
+║         libatspi2.0-0t64\                            ║
+║         libxcomposite1\                              ║
+║         libxdamage1\                                 ║
+║         libxfixes3\                                  ║
+║         libgbm1\                                     ║
+║         libxcb1\                                     ║
+║         libxkbcommon0\                               ║
+║         libasound2t64                                ║
+║                                                      ║
+║ <3 Playwright Team                                   ║
+╚══════════════════════════════════════════════════════╝
+2025-09-20 08:37:04 - main - INFO - GET http://0.0.0.0:8000/api/bookmakers/mostbet/test - Status: 503 - Time: 0.453s
+2025-09-20 08:43:49 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:43:49 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:43:49 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:43:49 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:43:49 - main - INFO - Playwright cleanup completed
+2025-09-20 08:43:49 - main - INFO - Playwright cleanup completed
+2025-09-20 08:43:49 - main - INFO - Playwright cleanup completed
+2025-09-20 08:43:49 - main - INFO - Playwright cleanup completed
+2025-09-20 08:43:57 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - root - INFO - Logging system initialized
+2025-09-20 08:43:59 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:43:59 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:43:59 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:44:01 - main - INFO - Playwright initialized
+2025-09-20 08:44:01 - main - INFO - System startup completed successfully
+2025-09-20 08:44:01 - main - INFO - Playwright initialized
+2025-09-20 08:44:01 - main - INFO - System startup completed successfully
+2025-09-20 08:44:01 - main - INFO - Playwright initialized
+2025-09-20 08:44:01 - main - INFO - System startup completed successfully
+2025-09-20 08:44:01 - main - INFO - Playwright initialized
+2025-09-20 08:44:01 - main - INFO - System startup completed successfully
+2025-09-20 08:44:07 - root - INFO - Logging system initialized
+2025-09-20 08:44:09 - root - INFO - Logging system initialized
+2025-09-20 08:44:09 - root - INFO - Logging system initialized
+2025-09-20 08:44:09 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - root - INFO - Logging system initialized
+2025-09-20 08:44:10 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:44:11 - main - INFO - Playwright initialized
+2025-09-20 08:44:11 - main - INFO - System startup completed successfully
+2025-09-20 08:44:11 - main - INFO - Playwright initialized
+2025-09-20 08:44:11 - main - INFO - System startup completed successfully
+2025-09-20 08:44:12 - main - INFO - Playwright initialized
+2025-09-20 08:44:12 - main - INFO - System startup completed successfully
+2025-09-20 08:44:12 - main - INFO - Playwright initialized
+2025-09-20 08:44:12 - main - INFO - System startup completed successfully
+2025-09-20 08:44:12 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:44:12 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:44:12 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:44:20 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:44:20 - main - INFO - Playwright cleanup completed
+2025-09-20 08:44:20 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:44:20 - main - INFO - Playwright cleanup completed
+2025-09-20 08:44:20 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:44:20 - main - INFO - Shutting down arbitrage detection backend...
+2025-09-20 08:44:20 - main - INFO - Playwright cleanup completed
+2025-09-20 08:44:20 - main - INFO - Playwright cleanup completed
+2025-09-20 08:47:09 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:12 - root - INFO - Logging system initialized
+2025-09-20 08:47:13 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:47:13 - root - INFO - Logging system initialized
+2025-09-20 08:47:13 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:47:13 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 08:47:15 - main - INFO - Playwright initialized
+2025-09-20 08:47:15 - main - INFO - System startup completed successfully
+2025-09-20 08:47:15 - main - INFO - Playwright initialized
+2025-09-20 08:47:15 - main - INFO - System startup completed successfully
+2025-09-20 08:47:15 - main - INFO - Playwright initialized
+2025-09-20 08:47:15 - main - INFO - System startup completed successfully
+2025-09-20 08:47:15 - main - INFO - Playwright initialized
+2025-09-20 08:47:15 - main - INFO - System startup completed successfully
+2025-09-20 08:47:15 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:47:16 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:47:16 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.001s
+2025-09-20 08:47:16 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:49:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:49:46 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:49:47 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:49:47 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:52:40 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:52:40 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:52:41 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:52:41 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 08:56:06 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 08:56:06 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 08:56:06 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 09:01:51 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 09:04:24 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.000s
+2025-09-20 09:04:24 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 09:04:25 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
+2025-09-20 09:04:25 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/favicon.ico - Status: 404 - Time: 0.000s
+2025-09-20 09:11:16 - root - INFO - Logging system initialized
+2025-09-20 09:12:37 - root - INFO - Logging system initialized
+2025-09-20 09:12:40 - root - INFO - Logging system initialized
+2025-09-20 09:12:40 - root - INFO - Logging system initialized
+2025-09-20 09:12:40 - root - INFO - Logging system initialized
+2025-09-20 09:12:40 - root - INFO - Logging system initialized
+2025-09-20 09:12:41 - root - INFO - Logging system initialized
+2025-09-20 09:12:41 - root - INFO - Logging system initialized
+2025-09-20 09:12:41 - root - INFO - Logging system initialized
+2025-09-20 09:12:41 - root - INFO - Logging system initialized
+2025-09-20 09:12:41 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 09:12:41 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 09:12:41 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 09:12:41 - main - INFO - Starting arbitrage detection backend...
+2025-09-20 09:12:43 - main - INFO - Playwright initialized
+2025-09-20 09:12:43 - main - INFO - System startup completed successfully
+2025-09-20 09:12:43 - main - INFO - Playwright initialized
+2025-09-20 09:12:43 - main - INFO - System startup completed successfully
+2025-09-20 09:12:43 - main - INFO - Playwright initialized
+2025-09-20 09:12:43 - main - INFO - System startup completed successfully
+2025-09-20 09:12:43 - main - INFO - Playwright initialized
+2025-09-20 09:12:43 - main - INFO - System startup completed successfully
+2025-09-20 09:12:44 - main - INFO - GET http://e8c4a837-df78-4a6b-8d12-03f14551b3be-00-15eiunvr690l.pike.replit.dev/ - Status: 200 - Time: 0.001s
