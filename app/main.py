@@ -13,6 +13,7 @@ from datetime import datetime
 from app.api.routes import router
 from app.config import settings
 from app.utils.logging import get_logger, setup_logging
+from app.schema.models import ArbitrageFilters, ArbitrageResponse, ArbitrageType, BookmakerName  # if used here
 
 # Setup logging
 setup_logging()
@@ -21,7 +22,6 @@ logger = get_logger(__name__)
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """Application lifespan manager."""
     logger.info("Starting arbitrage detection backend...")
     try:
         from playwright.async_api import async_playwright
@@ -44,7 +44,6 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="Arbitrage Detection API",
-    description="Production-grade arbitrage detection backend for sports betting.",
     version="1.0.0",
     docs_url="/docs",
     redoc_url="/redoc",
@@ -110,4 +109,4 @@ if __name__ == "__main__":
         workers=1 if settings.debug else settings.workers,
         log_level=settings.log_level.lower(),
         access_log=True
-    )
+)
