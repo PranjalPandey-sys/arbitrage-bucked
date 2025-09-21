@@ -1,0 +1,1 @@
+# This is a placeholder to indicate the presence of a zip file extraction task. The actual extraction and cleanup will be done programmatically after locating a zip file. 
